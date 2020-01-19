@@ -1,7 +1,7 @@
 # Cars-And-Numbers
 
 It is a fun project. One day I decided to understand how the car numbers recognition works.
-First of all, I figured out the solution of Instance segmentation task using the popular network architecture Mask R-CNN.
+First of all, I figured out the key concepts of the solution of instance segmentation task using the popular network architecture Mask R-CNN.
 And then, I found the [nomeroff-net](https://github.com/ria-com/nomeroff-net) and applyed it to detect the car number.
 
 <p align="center">
